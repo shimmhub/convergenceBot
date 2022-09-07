@@ -1,0 +1,5 @@
+discord secret = jOEiGi62My4KQ4b9xDxs-2Xv2YRjRwHv
+client id = 1016862125555195996
+generated url = https://discord.com/api/oauth2/authorize?client_id=1016862125555195996&permissions=1644389854320&scope=bot
+token = MTAxNjg2MjEyNTU1NTE5NTk5Ng.GdRBqI.POsMcmAn08r-VDJdc4T6MuJsras_OQQst3y62o
+permissions integer = 8
